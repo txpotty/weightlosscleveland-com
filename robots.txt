@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://weightlosscleveland.com/sitemap.xml
